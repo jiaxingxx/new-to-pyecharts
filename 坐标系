@@ -1,6 +1,0 @@
-pyecharts横坐标接受的是list(str)数据类型
-如['1','2']
-python的str()函数，可以将int转化为string
-如
-str(1)
-'1'
